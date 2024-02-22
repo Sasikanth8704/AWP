@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Time Table</title>
+</head>
+<body style="background-color: #a8e6ce;" >
+<table border="1" background="gray" cellspacing="2" cellpadding="3" 
+align="center" style="text-align: center; background-color: #a8e6ce;" >
+<caption style="color: black;" ><b>2nd YEAR B-SEC Time Table</b></caption>
+<tr style="background-color: #ffd3b5; color:aliceblack" >
+<th colspan="8">SEC-B</th>
+</tr>
+<tr style="background-color: #ffaaa6; color:aliceblack"  >
+<th>DAY</td>
+<th>09:00 - 10:15</th>
+<th>10:15 - 11:15</th>
+<th>11:15 - 12-15</th>
+<td rowspan="7">LUNCH</td>
+<th>01:15 - 02:30</th>
+<th>02:15 - 03:30</th>
+<th>03:15 - 04:30</th>
+</tr>
+<tr style="background-color: #ff0000; color:aliceblack"  >
+<th style="background-color: #ffaaa6; color:aliceblack" >MONDAY</th>
+<td>MPS(PP)</td>
+<td>CODETANTRA</td>
+<td>AWP(PP)</td>
+<td>T&P</td>
+<td colspan="2" >OS(PR)</td>
+</tr>
+<tr style="background-color: #ff0000; color:aliceblack" >
+<th style="background-color: #ffaaa6; color:aliceblack"  >TUESDAY</th>
+<td colspan="2" >OS(TUT)</td>
+<td>LIBRARY</td>
+<td>T&P</td>
+<td colspan="2" >MLP(TUT)</td>
+</tr>
+<tr style="background-color: #ff0000; color:aliceblack" >
+<th style="background-color: #ffaaa6; color:aliceblack"  >WEDNESDAY</th>
+<td colspan="2" >CODETANTRA</td>
+<td>MPS(PP)</td>
+<td>TR</td>
+<td colspan="2" >AWP(TUT)</td>
+</tr>
+<tr style="background-color: #ff0000; color:aliceblack" >
+<th style="background-color: #ffaaa6; color:aliceblack"  >THURSDAY</th>
+<td colspan="3" >MLP(PR)</td>
+<td colspan="3" >AWP(PR)</td>
+</tr>
+<tr style="background-color: #ff0000; color:aliceblack" >
+<th style="background-color: #ffaaa6; color:aliceblack"  >FRIDAY</th>
+<td colspan="3" >SEP</td>
+<td>JR</td>
+<td>MLP(PP)</td>
+<td>CSR</td>
+</tr>
+<tr style="background-color: #ff0000; color:aliceblack" >
+<th style="background-color: #ffaaa6; color:aliceblack"  >SATURDAY</th>
+<td>OS(PP)</td>
+<td>MENTOR</td>
+<td>CODETANTRA</td>
+<td colspan="3" >MPS(PR)</td>
+</tr>
+</table>
+</body>
+</html>
